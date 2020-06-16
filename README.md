@@ -1,2 +1,4 @@
-# deep_learning_v1
-Toys examples to learn deep learning
+# First steps with Deep learning
+Toys examples to learn deep learning.
+
+Here you can find 3 examples in order to practice your skills
